@@ -5,4 +5,4 @@
 
 |Index | Name |
 |---|---|
-|1| Prime number theorem |
+|1| [Prime number theorem](https://github.com/1darshanpatil/LoveYouMatplotlib/blob/main/PrimeNumberTheorem.py) |
