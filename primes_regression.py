@@ -1,5 +1,6 @@
 from sympy import isprime
 from scipy import stats
+import matplotlib.pyplot as plt
 def count_primes(x):
     return len([i for i in range(x+1) if isprime(i)])
 print("The code gives you a scatter plot of number of primes less than or equal to N")
